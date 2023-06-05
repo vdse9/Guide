@@ -14,9 +14,26 @@ https://forms.gle/GEzGgJwPfxwVdEyb9
 ### Chat GPT
 https://forms.gle/ZweuD8eqg5Xp1eQx7
 
+### 마무리
+
 
 ## 설문 (2일차)
-https://docs.google.com/forms/d/e/1FAIpQLScTTV-0VRlQhyiV8OqE73JymM7YAoOE7gIDKFJCXcpwligGeQ/viewform
+### Copilot
+
+
+### Tabnine
+
+
+### Code Whisperer
+
+
+### Bard
+
+
+### Chat GPT
+
+
+### 마무리
 
 
 ## 설문 (3일차)
