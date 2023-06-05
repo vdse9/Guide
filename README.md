@@ -39,5 +39,20 @@ https://forms.gle/NUTWJMFgxH9td1x76
   
   
 ## 설문 (3일차)
-### 코드리뷰
-https://forms.gle/s5V4kR5rABuAyoGSA
+### Copilot
+https://forms.gle/Dqg7xkk5jeX9Mdru7
+
+### Tabnine
+https://forms.gle/M5QSoL2RCpVac1988
+
+### Code Whisperer
+https://forms.gle/mXTmryz9YtE6kTwj7
+
+### Bard
+https://forms.gle/7i8CSmtSajUXx4959
+
+### Chat GPT
+https://forms.gle/GPqKC8p5oxvocWqJA
+
+### 마무리
+Knox Meeting 게시 
